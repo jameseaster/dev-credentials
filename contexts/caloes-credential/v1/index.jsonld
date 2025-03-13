@@ -9,8 +9,7 @@
       "@id": "https://schema.org/familyName"
     },
     "email": {
-      "@id": "https://schema.org/email",
-      "@type": "@id"
+      "@id": "https://schema.org/email"
     }
   }
 }
