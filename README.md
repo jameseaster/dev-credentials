@@ -2,7 +2,12 @@
 
 Development contexts and credentials for testing
 
-### Caloes Credential
+### Contexts
 
-- [Credential](https://jameseaster.github.io/dev-credentials/credentials/caloes-credential/v1/index.jsonld)
-- [Context](https://jameseaster.github.io/dev-credentials/contexts/caloes-credential/v1/index.jsonld)
+- [First Responder v2rc1](https://jameseaster.github.io/dev-credentials/contexts/first-responder/v2rc1.jsonld)
+- [CalOES Credential v1](https://jameseaster.github.io/dev-credentials/contexts/caloes-credential/v1/index.jsonld)
+
+### Credentials
+
+- [CalOES Credential 1.0.0](https://jameseaster.github.io/dev-credentials/credentials/caloes-credential/1.0.0.jsonld)
+- [CalOES Credential 2.0.0](https://jameseaster.github.io/dev-credentials/credentials/caloes-credential/1.0.0.jsonld)
